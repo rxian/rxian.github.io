@@ -24,6 +24,7 @@ title: Ruicheng Xian
   #bio-header-picture-container img {
     float: none;
     max-width: 100%;
+    min-width: inherit;
     width: 200px;
     margin-left: 0%;
     margin-bottom: 0%;
