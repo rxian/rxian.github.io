@@ -53,6 +53,6 @@ rxian2(at)illinois.edu • [Google Scholar](https://scholar.google.com/citations
 
 ---
 
-I am a third-year [CS](http://cs.illinois.edu) PhD student at the University of Illinois Urbana-Champaign. I had the fortune to work with the glorious [Matus Telgarsky](http://mjt.web.engr.illinois.edu), and am advised by [Han Zhao](http://hanzhaoml.github.io). Previously, I graduated from the [ECE](http://ece.illinois.edu) department with a BS degree.
+I am a third-year [CS](http://cs.illinois.edu) PhD student at the University of Illinois Urbana-Champaign. I am advised by [Han Zhao](http://hanzhaoml.github.io), and had the fortune to work with the glorious [Matus Telgarsky](http://mjt.web.engr.illinois.edu). Previously, I graduated from the [ECE](http://ece.illinois.edu) department with a BS degree.
 
 My interests lie broadly in machine learning, natural language processing, and transfer learning. I currently study cross-lingual NLP.
