@@ -258,7 +258,8 @@ table {
 }
 
 hr {
-  background: darken($background-color, 4%);
-  border: 1px solid darken($background-color, 4%);
+  border: 0px;
+  background: darken($background-color, 6%);
+  height: 2.5px;
   margin-bottom: 1em;
 }
