@@ -2,7 +2,7 @@
 
 // Define defaults for each variable.
 
-$base-font-family: Suisse, Helvetica, Arial, -apple-system, BlinkMacSystemFont, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-family: "Suisse Int'l", Helvetica, Arial, -apple-system, BlinkMacSystemFont, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -53,3 +53,48 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+@font-face {
+  font-family: "Suisse Int'l";
+  font-style: normal;
+  font-weight: 200;
+  src: url('fonts/SuisseIntl-Light-WebS.woff') format('woff');
+}
+@font-face {
+  font-family: "Suisse Int'l";
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/SuisseIntl-Regular-WebS.woff') format('woff');
+}
+@font-face {
+  font-family: "Suisse Int'l";
+  font-style: normal;
+  font-weight: 600;
+  src: url('fonts/SuisseIntl-SemiBold-WebS.woff') format('woff');
+}
+
+@font-face {
+  font-family: "Suisse Int'l";
+  font-style: italic;
+  font-weight: 200;
+  src: url('fonts/SuisseIntl-LightItalic-WebS.woff') format('woff');
+}
+@font-face {
+  font-family: "Suisse Int'l";
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/SuisseIntl-RegularItalic-WebS.woff') format('woff');
+}
+@font-face {
+  font-family: "Suisse Int'l";
+  font-style: italic;
+  font-weight: 600;
+  src: url('fonts/SuisseIntl-SemiBoldItalic-WebS.woff') format('woff');
+}
+
+@font-face {
+  font-family: "Suisse Int'l Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/SuisseIntlMono-Regular-WebS.woff') format('woff');
+}
