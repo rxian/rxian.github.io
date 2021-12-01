@@ -4,15 +4,14 @@ title: Ruicheng Xian
 ---
 
 <style>
-h1   {
+#bio-header-container h1   {
   font-size: 1.6em;
   margin-bottom: 0.0em;
 }
-#home-links a {
+#bio-header-container a {
   background-image: none;
-  /*font-size: 14px;*/
 }
-#home-my-picture img {
+#bio-header-picture-container img {
   float: right;
   max-width: 37%;
   min-width: 200px;
@@ -22,7 +21,7 @@ h1   {
   border-radius: 5%;
 }
 @media screen and (max-width: 550px) {
-  #home-my-picture img {
+  #bio-header-picture-container img {
     float: none;
     max-width: 100%;
     width: 200px;
@@ -31,25 +30,29 @@ h1   {
     padding-left: auto;
     padding-right: auto;
   }
-  #home-my-picture p {
+  #bio-header-picture-container p {
     text-align: center;
   }
 }
 </style>
 
 
-<div id="home-my-picture" markdown="1">
-![Photo of me](assets/spice.png)
+<div id="bio-header-container" markdown="1">
+
+<div id="bio-header-picture-container" markdown="1">
+
+![Photo of me](assets/spice.jpg)
+
 </div>
 
 # Ruicheng Xian
 
-<div id="home-links" markdown="1">
 rxian2(at)illinois.edu • [Google Scholar](https://scholar.google.com/citations?user=Nmk26z4AAAAJ)
+
 </div>
 
 ---
 
-I am a third-year CS PhD student at [UIUC](http://cs.illinois.edu), where I had the fortune to work with the glorious [Matus Telgarsky](http://mjt.web.engr.illinois.edu). I am advised by [Han Zhao](http://hanzhaoml.github.io). Previously, I graduated from [ECE](http://ece.illinois.edu) with a BS degree.
+I am a third-year [CS](http://cs.illinois.edu) PhD student at the University of Illinois Urbana-Champaign. I had the fortune to work with the glorious [Matus Telgarsky](http://mjt.web.engr.illinois.edu), and am advised by [Han Zhao](http://hanzhaoml.github.io). Previously, I graduated from the [ECE](http://ece.illinois.edu) department with a BS degree.
 
 My interests lie broadly in machine learning, natural language processing, and transfer learning. I currently study cross-lingual NLP.
