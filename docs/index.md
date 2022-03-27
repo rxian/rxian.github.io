@@ -4,12 +4,9 @@ title: Ruicheng Xian
 ---
 
 <style>
-#bio-header-container h1   {
+#bio-header-container h1 {
   font-size: 1.6em;
   margin-bottom: 0.0em;
-}
-#bio-header-container a {
-  background-image: none;
 }
 #bio-header-picture-container img {
   float: right;
@@ -57,3 +54,13 @@ rxian2(at)illinois.edu • [Google Scholar](https://scholar.google.com/citations
 I am a third-year [CS](http://cs.illinois.edu) PhD student at the University of Illinois Urbana-Champaign. I am advised by [Han Zhao](http://hanzhaoml.github.io), and had the fortune to work with the glorious [Matus Telgarsky](http://mjt.web.engr.illinois.edu). Previously, I graduated from the [ECE](http://ece.illinois.edu) department with a BS degree.
 
 My interests lie broadly in machine learning, natural language processing, and transfer learning. I currently study cross-lingual NLP.
+
+<!-- ### Publications
+
+**Cross-Lingual Transfer with Class-Weighted Language-Invariant Representations**  
+Ruicheng Xian, Heng Ji, Han Zhao. ICLR 2022. ([OpenReview](https://openreview.net/forum?id=k7-s5HSSPE5), [GitHub](https://github.com/rxian/domain-alignment))
+
+**Neural tangent kernels, transportation mappings, and universal approximation**  
+Ziwei Ji, Matus Telgarsky, Ruicheng Xian. ICLR 2020. ([OpenReview](https://openreview.net/forum?id=HklQYxBKwS))
+
+#### Preprints -->

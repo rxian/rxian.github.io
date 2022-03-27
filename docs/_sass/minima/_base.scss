@@ -97,27 +97,33 @@ h1, h2, h3, h4, h5, h6 {
   /*font-weight: $base-font-weight;*/
 }
 
-
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.75em;
+}
+h3 {
+  font-size: 1.4em;
+}
+h4 {
+  font-size: 1.2em;
+}
 
 /**
  * Links
  */
 a {
-  color: $text-color;
+  color: #83a7a3; //$text-color;
   text-decoration: none;
-
-  background-image: linear-gradient(lighten($brand-color, 17%) 0%, lighten($brand-color, 17%) 88%);
-  background-repeat: no-repeat;
-  background-size: 100% 0.4em;
-  background-position: 0 100%;
-  transition: background-color 0.07s;
-
-  &:hover {
-    background-color: lighten($brand-color, 17%);
+  &:visited {
+    color: #83a7a3; //$text-color;
+    text-decoration: none;
   }
 
-  &:visited {
-    color: $text-color;
+  transition: background-color 0.07s;
+  &:hover {
+    background-color: lighten($brand-color, 20%);
   }
 }
 
@@ -261,7 +267,7 @@ table {
 
 hr {
   border: 0px;
-  background: lighten(#dbdae6, 5%);
+  background: lighten(#dfe0e5, 5%);
   height: 2.5px;
   margin-bottom: 1em;
 }
