@@ -7,6 +7,7 @@ title: Ruicheng Xian
 #bio-header-container h1 {
   font-size: 1.6em;
   margin-bottom: 0.0em;
+  font-family: "Suisse Int'l", Helvetica, Arial, "Source Han Serif CN", -apple-system, BlinkMacSystemFont, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 #bio-header-picture-container img {
   float: right;
@@ -43,7 +44,7 @@ title: Ruicheng Xian
 
 </div>
 
-<h1>Ruicheng Xian&nbsp;&nbsp;&nbsp;<span style="font-size: 0.98em; font-family:'Source Han Serif CN';">冼睿成</span></h1>
+# Ruicheng Xian　冼睿成
 
 rxian2(at)illinois.edu • [Google Scholar](https://scholar.google.com/citations?user=Nmk26z4AAAAJ)
 
