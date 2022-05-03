@@ -43,7 +43,7 @@ title: Ruicheng Xian
 
 </div>
 
-# Ruicheng Xian
+<h1>Ruicheng Xian&nbsp;&nbsp;&nbsp;<span style="font-size: 0.98em; font-family:'Source Han Serif CN';">冼睿成</span></h1>
 
 rxian2(at)illinois.edu • [Google Scholar](https://scholar.google.com/citations?user=Nmk26z4AAAAJ)
 

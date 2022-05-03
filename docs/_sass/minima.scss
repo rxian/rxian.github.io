@@ -98,3 +98,10 @@ $on-laptop:        800px !default;
   font-weight: 400;
   src: url('fonts/SuisseIntlMono-Regular-WebS.woff') format('woff');
 }
+
+@font-face {
+  font-family: "Source Han Serif CN";
+  font-style: bold;
+  font-weight: 600;
+  src: url('fonts/SourceHanSerifCN-Bold.otf') format('opentype');
+}
