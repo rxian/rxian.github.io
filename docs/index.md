@@ -22,14 +22,11 @@ title: Ruicheng Xian
     float: none;
     max-width: 100%;
     min-width: inherit;
-    width: 200px;
+    width: 150px;
     margin-left: 0%;
     margin-bottom: 0%;
     padding-left: auto;
     padding-right: auto;
-  }
-  #bio-header-picture-container p {
-    text-align: center;
   }
 }
 </style>
@@ -39,28 +36,20 @@ title: Ruicheng Xian
 
 <div id="bio-header-picture-container" markdown="1">
 
-![Photo of me](assets/spice.jpg)
+![Photo of myself](assets/spice.jpg)
 
 </div>
 
-<h1>Ruicheng Xian&nbsp;&nbsp;&nbsp;<span style="font-size: 0.98em; font-family:'Source Han Serif CN';">冼睿成</span></h1>
+<h1 style="line-height: 0.8em;">Ruicheng Xian</h1>
 
-rxian2(at)illinois.edu • [Google Scholar](https://scholar.google.com/citations?user=Nmk26z4AAAAJ)
+<h1 style="margin-bottom: 0.2em; font-size: 1.5em; font-weight: 400;">冼睿成</h1>
+
+rxian2(at)illinois.edu.  [[google scholar](https://scholar.google.com/citations?user=Nmk26z4AAAAJ)]
 
 </div>
 
 ---
 
-I am a third-year [CS](http://cs.illinois.edu) PhD student at the University of Illinois Urbana-Champaign. I am advised by [Han Zhao](http://hanzhaoml.github.io), and had the fortune to work with the glorious [Matus Telgarsky](http://mjt.web.engr.illinois.edu). Previously, I graduated from the [ECE](http://ece.illinois.edu) department with a BS degree.
+I am a fourth-year [CS](http://cs.illinois.edu) PhD student at the University of Illinois Urbana-Champaign, where I am fortunate to be advised by [Han Zhao](http://hanzhaoml.github.io), and to have worked with the glorious [Matus Telgarsky](http://mjt.web.engr.illinois.edu).  Previously, I graduated from the [ECE](http://ece.illinois.edu) department with a BS degree.
 
-My interests lie broadly in machine learning, natural language processing, and transfer learning. I currently study cross-lingual NLP.
-
-<!-- ### Publications
-
-**Cross-Lingual Transfer with Class-Weighted Language-Invariant Representations**  
-Ruicheng Xian, Heng Ji, Han Zhao. ICLR 2022. ([OpenReview](https://openreview.net/forum?id=k7-s5HSSPE5), [GitHub](https://github.com/rxian/domain-alignment))
-
-**Neural tangent kernels, transportation mappings, and universal approximation**  
-Ziwei Ji, Matus Telgarsky, Ruicheng Xian. ICLR 2020. ([OpenReview](https://openreview.net/forum?id=HklQYxBKwS))
-
-#### Preprints -->
+My interests lie broadly in machine learning, transfer learning, and natural language processing.  I currently study fairness and domain adaptation.
