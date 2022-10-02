@@ -50,6 +50,6 @@ rxian2(at)illinois.edu.  [[google scholar](https://scholar.google.com/citations?
 
 ---
 
-I am a fourth-year [CS](http://cs.illinois.edu) PhD student at the University of Illinois Urbana-Champaign, where I am fortunate to be advised by [Han Zhao](http://hanzhaoml.github.io), and to have worked with the glorious [Matus Telgarsky](http://mjt.web.engr.illinois.edu).  Previously, I graduated from the [ECE](http://ece.illinois.edu) department with a BS degree.
+I am a fourth-year [CS](http://cs.illinois.edu) PhD student at the University of Illinois Urbana-Champaign, where I am fortunate to be advised by the great [Han Zhao](http://hanzhaoml.github.io), and to have worked with the glorious [Matus Telgarsky](http://mjt.web.engr.illinois.edu).  Previously, I graduated from the [ECE](http://ece.illinois.edu) department with a BS degree.
 
 My interests lie broadly in machine learning, transfer learning, and natural language processing.  I currently study fairness and domain adaptation.
