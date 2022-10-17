@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 3;
 }
 
 
@@ -184,15 +184,15 @@ pre {
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
+  padding-right: $spacing-unit / 3;
+  padding-left: $spacing-unit / 3;
   @extend %clearfix;
 
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    padding-right: $spacing-unit / 3;
+    padding-left: $spacing-unit / 3;
   }
 }
 
@@ -267,7 +267,8 @@ table {
 
 hr {
   border: 0px;
-  background: lighten(#dfe0e5, 5%);
-  height: 2.5px;
-  margin-bottom: 1em;
+  background: #dfe0e5;
+  height: 1px;
+  // margin-top: $spacing-unit / 2.5;
+  margin-bottom: $spacing-unit / 2.5;
 }
