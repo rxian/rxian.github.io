@@ -25,7 +25,7 @@ h2 {
     float: none;
     max-width: 100%;
     min-width: inherit;
-    width: 150px;
+    width: 120px;
     margin-left: 0%;
     margin-bottom: 0%;
     padding-left: auto;
@@ -55,9 +55,7 @@ article {
 }
 footer { 
   /* text-align: right; */
-  margin-top: 10px;
-  color: #afafb6;
-  font-size: 0.85em;
+  /* margin-top: 10px; */
 }
 .wrapper { 
   height: 100vh;
@@ -103,6 +101,10 @@ My interests lie broadly in machine learning, transfer learning, and natural lan
 
 ## Publications
 
+[Fair and Optimal Classification via Transports to Wasserstein-Barycenter](https://arxiv.org/abs/2211.01528)  
+Ruicheng Xian, Lang Yin, Han Zhao  
+Preprint, 2022  [[pdf](https://arxiv.org/pdf/2211.01528.pdf), [code](https://github.com/rxian/fair-classification)]
+
 [Cross-Lingual Transfer with Class-Weighted Language-Invariant Representations](https://openreview.net/forum?id=k7-s5HSSPE5)  
 Ruicheng Xian, Heng Ji, Han Zhao  
 ICLR 2022  [[pdf](https://openreview.net/pdf?id=k7-s5HSSPE5), [code](https://github.com/rxian/domain-alignment)]
@@ -113,8 +115,15 @@ ICLR 2020  [[pdf](https://openreview.net/pdf?id=HklQYxBKwS)]
 
 </div>
 
+<div class="block" style="text-align: right; margin-top: 10px; color: #afafb6; font-size: 0.85em;" markdown="1">
+
+November 2022
+
+</div>
+
 </article>
 
+<!-- 
 <footer>
 
 <div class="block" markdown="1">
@@ -124,3 +133,4 @@ October 2022
 </div>
 
 </footer>
+-->
