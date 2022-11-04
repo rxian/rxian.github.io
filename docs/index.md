@@ -27,7 +27,7 @@ h2 {
     min-width: inherit;
     width: 120px;
     margin-left: 0%;
-    margin-bottom: 0%;
+    margin-bottom: 10px;
     padding-left: auto;
     padding-right: auto;
   }
