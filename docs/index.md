@@ -107,7 +107,7 @@ Preprint, 2022  [[pdf](https://arxiv.org/pdf/2211.01528.pdf), [code](https://git
 
 [Cross-Lingual Transfer with Class-Weighted Language-Invariant Representations](https://openreview.net/forum?id=k7-s5HSSPE5)  
 Ruicheng Xian, Heng Ji, Han Zhao  
-ICLR 2022  [[pdf](https://openreview.net/pdf?id=k7-s5HSSPE5), [code](https://github.com/rxian/domain-alignment)]
+ICLR 2022  [[pdf](assets/xian2022crosslingual.pdf), [code](https://github.com/rxian/domain-alignment)]
 
 [Neural tangent kernels, transportation mappings, and universal approximation](https://openreview.net/forum?id=HklQYxBKwS)  
 Ziwei Ji, Matus Telgarsky, Ruicheng Xian  
