@@ -101,6 +101,10 @@ My interests lie broadly in machine learning, transfer learning, and natural lan
 
 ## Publications
 
+[Learning List-Level Domain-Invariant Representations for Ranking](https://arxiv.org/abs/2212.10764)  
+Ruicheng Xian, Honglei Zhuang, Zhen Qin, Hamed Zamani, Jing Lu, Ji Ma, Kai Hui, Han Zhao, Xuanhui Wang, Michael Bendersky  
+Preprint, 2022  [[pdf](https://arxiv.org/pdf/2212.10764.pdf)]
+
 [Fair and Optimal Classification via Transports to Wasserstein-Barycenter](https://arxiv.org/abs/2211.01528)  
 Ruicheng Xian, Lang Yin, Han Zhao  
 Preprint, 2022  [[pdf](https://arxiv.org/pdf/2211.01528.pdf), [code](https://github.com/rxian/fair-classification)]
@@ -117,7 +121,7 @@ ICLR 2020  [[pdf](https://openreview.net/pdf?id=HklQYxBKwS)]
 
 <div class="block" style="text-align: right; margin-top: 10px; color: #afafb6; font-size: 0.85em;" markdown="1">
 
-November 2022
+December 2022
 
 </div>
 
