@@ -107,7 +107,7 @@ Preprint, 2022  [[pdf](https://arxiv.org/pdf/2212.10764.pdf)]
 
 [Fair and Optimal Classification via Post-Processing Predictors](https://arxiv.org/abs/2211.01528)  
 Ruicheng Xian, Lang Yin, Han Zhao  
-Preprint, 2022  [[pdf](https://arxiv.org/pdf/2211.01528.pdf), [code](https://github.com/rxian/fair-classification)]
+Preprint, 2022  [[pdf](assets/xian2023fairoptimalclassification.pdf), [code](https://github.com/rxian/fair-classification)]
 
 [Cross-Lingual Transfer with Class-Weighted Language-Invariant Representations](https://openreview.net/forum?id=k7-s5HSSPE5)  
 Ruicheng Xian, Heng Ji, Han Zhao  
