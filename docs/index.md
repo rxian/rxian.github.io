@@ -101,21 +101,21 @@ My interests lie broadly in machine learning, transfer learning, and natural lan
 
 ## Papers
 
-Learning List-Level Domain-Invariant Representations for Ranking  
+[Learning List-Level Domain-Invariant Representations for Ranking](https://arxiv.org/abs/2212.10764)  
 Ruicheng Xian, Honglei Zhuang, Zhen Qin, Hamed Zamani, Jing Lu, Ji Ma, Kai Hui, Han Zhao, Xuanhui Wang, Michael Bendersky  
-[Preprint, 2022](https://arxiv.org/abs/2212.10764) &nbsp;·&nbsp; [pdf](assets/xian2023listlevelinvariant.pdf)
+Preprint, 2022 &nbsp;·&nbsp; [pdf](assets/xian2023listlevelinvariant.pdf)
 
-Fair and Optimal Classification via Post-Processing Predictors  
+[Fair and Optimal Classification via Post-Processing Predictors](https://arxiv.org/abs/2211.01528)  
 Ruicheng Xian, Lang Yin, Han Zhao  
-[Preprint, 2022](https://arxiv.org/abs/2211.01528) &nbsp;·&nbsp; [pdf](assets/xian2023fairoptimalclassification.pdf) &nbsp;·&nbsp; [code](https://github.com/rxian/fair-classification)
+Preprint, 2022 &nbsp;·&nbsp; [pdf](assets/xian2023fairoptimalclassification.pdf) &nbsp;·&nbsp; [code](https://github.com/rxian/fair-classification)
 
-Cross-Lingual Transfer with Class-Weighted Language-Invariant Representations  
+[Cross-Lingual Transfer with Class-Weighted Language-Invariant Representations](https://openreview.net/forum?id=k7-s5HSSPE5)  
 Ruicheng Xian, Heng Ji, Han Zhao  
-[ICLR 2022](https://openreview.net/forum?id=k7-s5HSSPE5) &nbsp;·&nbsp; [pdf](assets/xian2022crosslingual.pdf) &nbsp;·&nbsp; [code](https://github.com/rxian/domain-alignment)
+ICLR 2022 &nbsp;·&nbsp; [pdf](assets/xian2022crosslingual.pdf) &nbsp;·&nbsp; [code](https://github.com/rxian/domain-alignment)
 
-Neural tangent kernels, transportation mappings, and universal approximation  
+[Neural tangent kernels, transportation mappings, and universal approximation](https://openreview.net/forum?id=HklQYxBKwS)  
 Ziwei Ji, Matus Telgarsky, Ruicheng Xian  
-[ICLR 2020](https://openreview.net/forum?id=HklQYxBKwS) &nbsp;·&nbsp; [pdf](https://arxiv.org/pdf/1910.06956.pdf)
+ICLR 2020 &nbsp;·&nbsp; [pdf](https://arxiv.org/pdf/1910.06956.pdf)
 
 </div>
 
