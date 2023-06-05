@@ -101,9 +101,9 @@ My interests lie broadly in machine learning, transfer learning, and natural lan
 
 ## Papers
 
-[Fair and Optimal Classification via Post-Processing Predictors](https://arxiv.org/abs/2211.01528)  
+[Fair and Optimal Classification via Post-Processing](https://openreview.net/forum?id=8eml6N3JGo)  
 Ruicheng Xian, Lang Yin, Han Zhao  
-ICML 2023 ⋅ [pdf](assets/xian2023fairoptimalclassification.pdf) ⋅ [code](https://github.com/rxian/fair-classification)
+ICML 2023 ⋅ [pdf](https://arxiv.org/pdf/2211.01528.pdf) ⋅ [code](https://github.com/rxian/fair-classification)
 
 [Learning List-Level Domain-Invariant Representations for Ranking](https://arxiv.org/abs/2212.10764)  
 Ruicheng Xian, Honglei Zhuang, Zhen Qin, Hamed Zamani, Jing Lu, Ji Ma, Kai Hui, Han Zhao, Xuanhui Wang, Michael Bendersky  
@@ -121,7 +121,7 @@ ICLR 2020 ⋅ [pdf](https://arxiv.org/pdf/1910.06956.pdf)
 
 <div class="block" style="text-align: right; margin-top: 10px; color: #afafb6; font-size: 0.85em;" markdown="1">
 
-April 2023
+June 2023
 
 </div>
 
