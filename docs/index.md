@@ -101,7 +101,7 @@ My interests lie broadly in machine learning, transfer learning, and natural lan
 
 ## Papers
 
-[Fair and Optimal Classification via Post-Processing](https://openreview.net/forum?id=8eml6N3JGo)  
+[Fair and Optimal Classification via Post-Processing](https://proceedings.mlr.press/v202/xian23b.html)  
 Ruicheng Xian, Lang Yin, Han Zhao  
 ICML 2023 ⋅ [pdf](https://arxiv.org/pdf/2211.01528.pdf) ⋅ [code](https://github.com/rxian/fair-classification)
 
