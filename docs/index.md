@@ -91,7 +91,7 @@ rxian2(at)illinois.edu ⋅ [google scholar](https://scholar.google.com/citations
 
 ---
 
-I am a fourth-year [CS](http://cs.illinois.edu) PhD student at the University of Illinois Urbana-Champaign, where I am fortunate to be advised by the great [Han Zhao](http://hanzhaoml.github.io), and to have worked with the glorious [Matus Telgarsky](http://mjt.web.engr.illinois.edu).  Previously, I graduated from the [ECE](http://ece.illinois.edu) department with a BS degree.
+I am a fifth-year [CS](http://cs.illinois.edu) PhD student at the University of Illinois Urbana-Champaign, where I am fortunate to be advised by the great [Han Zhao](http://hanzhaoml.github.io), and to have worked with the glorious [Matus Telgarsky](https://cims.nyu.edu/~matus/).  Previously, I graduated from the [ECE](http://ece.illinois.edu) department with a BS degree.
 
 My interests lie broadly in machine learning, transfer learning, and natural language processing.  I currently study fairness and domain adaptation.
 
@@ -101,13 +101,17 @@ My interests lie broadly in machine learning, transfer learning, and natural lan
 
 ## Papers
 
+[Learning List-Level Domain-Invariant Representations for Ranking](https://arxiv.org/abs/2212.10764)  
+Ruicheng Xian, Honglei Zhuang, Zhen Qin, Hamed Zamani, Jing Lu, Ji Ma, Kai Hui, Han Zhao, Xuanhui Wang, Michael Bendersky  
+NeurIPS 2023 spotlight ⋅ [pdf](assets/xian2023listlevelinvariant.pdf)
+
+[Revisiting Scalarization in Multi-Task Learning: A Theoretical Perspective](https://openreview.net/forum?id=6EqUpqMnwl)  
+Yuzheng Hu, Ruicheng Xian, Qilong Wu, Qiuling Fan, Lang Yin, Han Zhao  
+NeurIPS 2023 ⋅ [pdf](https://arxiv.org/pdf/2308.13985.pdf)
+
 [Fair and Optimal Classification via Post-Processing](https://proceedings.mlr.press/v202/xian23b.html)  
 Ruicheng Xian, Lang Yin, Han Zhao  
 ICML 2023 ⋅ [pdf](https://arxiv.org/pdf/2211.01528.pdf) ⋅ [code](https://github.com/rxian/fair-classification)
-
-[Learning List-Level Domain-Invariant Representations for Ranking](https://arxiv.org/abs/2212.10764)  
-Ruicheng Xian, Honglei Zhuang, Zhen Qin, Hamed Zamani, Jing Lu, Ji Ma, Kai Hui, Han Zhao, Xuanhui Wang, Michael Bendersky  
-Preprint, 2022 ⋅ [pdf](assets/xian2023listlevelinvariant.pdf)
 
 [Cross-Lingual Transfer with Class-Weighted Language-Invariant Representations](https://openreview.net/forum?id=k7-s5HSSPE5)  
 Ruicheng Xian, Heng Ji, Han Zhao  
@@ -121,7 +125,7 @@ ICLR 2020 ⋅ [pdf](https://arxiv.org/pdf/1910.06956.pdf)
 
 <div class="block" style="text-align: right; margin-top: 10px; color: #afafb6; font-size: 0.85em;" markdown="1">
 
-June 2023
+September 2023
 
 </div>
 
