@@ -101,9 +101,9 @@ My interests lie broadly in machine learning, transfer learning, and natural lan
 
 ## Papers
 
-[Learning List-Level Domain-Invariant Representations for Ranking](https://arxiv.org/abs/2212.10764)  
+[Learning List-Level Domain-Invariant Representations for Ranking](https://openreview.net/forum?id=m21rQusNgb)  
 Ruicheng Xian, Honglei Zhuang, Zhen Qin, Hamed Zamani, Jing Lu, Ji Ma, Kai Hui, Han Zhao, Xuanhui Wang, Michael Bendersky  
-NeurIPS 2023 spotlight ⋅ [pdf](assets/xian2023listlevelinvariant.pdf)
+NeurIPS 2023 spotlight ⋅ [pdf](https://arxiv.org/pdf/2212.10764.pdf) ⋅ [code](https://openreview.net/attachment?id=m21rQusNgb&name=supplementary_material)
 
 [Revisiting Scalarization in Multi-Task Learning: A Theoretical Perspective](https://openreview.net/forum?id=6EqUpqMnwl)  
 Yuzheng Hu, Ruicheng Xian, Qilong Wu, Qiuling Fan, Lang Yin, Han Zhao  
