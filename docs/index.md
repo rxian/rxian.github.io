@@ -91,15 +91,23 @@ rxian2(at)illinois.edu ⋅ [google scholar](https://scholar.google.com/citations
 
 ---
 
-I am a fifth-year [CS](http://cs.illinois.edu) PhD student at the University of Illinois Urbana-Champaign, where I am fortunate to be advised by the great [Han Zhao](http://hanzhaoml.github.io), and to have worked with the glorious [Matus Telgarsky](https://cims.nyu.edu/~matus/).  Previously, I graduated from the [ECE](http://ece.illinois.edu) department with a BS degree.
+I am a sixth-year [CS](http://cs.illinois.edu) PhD student at the University of Illinois Urbana-Champaign, where I am fortunate to be advised by [Han Zhao](http://hanzhaoml.github.io), and to have worked with [Matus Telgarsky](https://cims.nyu.edu/~matus/).  Previously, I graduated from the [ECE](http://ece.illinois.edu) department with a BS degree.
 
-My interests lie broadly in machine learning, transfer learning, and natural language processing.  I currently study fairness and domain adaptation.
+My interests lie broadly in machine learning, transfer learning, and natural language processing.  I currently study algorithmic fairness.
 
 </div>
 
 <div class="block publications-block" markdown="1">
 
 ## Papers
+
+[A Unified Post-Processing Framework for Group Fairness in Classification](https://arxiv.org/abs/2405.04025)  
+Ruicheng Xian, Han Zhao  
+Preprint ⋅ [pdf](https://arxiv.org/pdf/2405.04025) ⋅ [code](https://github.com/rxian/fair-classification)
+
+[Differentially Private Post-Processing for Fair Regression](https://proceedings.mlr.press/v235/xian24b.html)  
+Ruicheng Xian, Qiaobo Li, Gautam Kamath, Han Zhao  
+ICML 2024 ⋅ [pdf](https://arxiv.org/pdf/2405.04034) ⋅ [code](https://github.com/rxian/fair-regression)
 
 [Learning List-Level Domain-Invariant Representations for Ranking](https://openreview.net/forum?id=m21rQusNgb)  
 Ruicheng Xian, Honglei Zhuang, Zhen Qin, Hamed Zamani, Jing Lu, Ji Ma, Kai Hui, Han Zhao, Xuanhui Wang, Michael Bendersky  
@@ -125,7 +133,7 @@ ICLR 2020 ⋅ [pdf](https://arxiv.org/pdf/1910.06956.pdf)
 
 <div class="block" style="text-align: right; margin-top: 10px; color: #afafb6; font-size: 0.85em;" markdown="1">
 
-September 2023
+December 2024
 
 </div>
 
