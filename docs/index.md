@@ -103,7 +103,7 @@ My interests lie broadly in machine learning; my thesis studied algorithmic fair
 
 [Empirical Privacy Variance](https://openreview.net/forum?id=oEvbe7vtOm)  
 Yuzheng Hu, Fan Wu, Ruicheng Xian, Yuhang Liu, Lydia Zakynthinou, Pritish Kamath, Chiyuan Zhang, David Forsyth  
-ICML 2025 ⋅ [pdf](https://arxiv.org/pdf/2405.04034)
+ICML 2025 ⋅ [pdf](https://arxiv.org/pdf/2503.12314)
 
 [A Unified Post-Processing Framework for Group Fairness in Classification](https://arxiv.org/abs/2405.04025)  
 Ruicheng Xian, Han Zhao  
