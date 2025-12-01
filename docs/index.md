@@ -91,9 +91,9 @@ rxian2(at)illinois.edu ⋅ [google scholar](https://scholar.google.com/citations
 
 ---
 
-I am a sixth-year [CS](http://cs.illinois.edu) PhD student at the University of Illinois Urbana-Champaign, where I am fortunate to be advised by [Han Zhao](http://hanzhaoml.github.io), and to have worked with [Matus Telgarsky](https://cims.nyu.edu/~matus/).  Previously, I graduated from the [ECE](http://ece.illinois.edu) department with a BS degree.
+I received my PhD from the [University of Illinois Urbana-Champaign](http://cs.illinois.edu), where I was fortunate to be advised by [Han Zhao](http://hanzhaoml.github.io), and to have worked with [Matus Telgarsky](https://cims.nyu.edu/~matus/).  I am now at [OpenAI](https://openai.com).
 
-My interests lie broadly in machine learning, transfer learning, and natural language processing.  I currently study algorithmic fairness.
+My interests lie broadly in machine learning; my thesis studied algorithmic fairness.
 
 </div>
 
@@ -101,9 +101,13 @@ My interests lie broadly in machine learning, transfer learning, and natural lan
 
 ## Papers
 
+[Empirical Privacy Variance](https://openreview.net/forum?id=oEvbe7vtOm)  
+Yuzheng Hu, Fan Wu, Ruicheng Xian, Yuhang Liu, Lydia Zakynthinou, Pritish Kamath, Chiyuan Zhang, David Forsyth  
+ICML 2025 ⋅ [pdf](https://arxiv.org/pdf/2405.04034)
+
 [A Unified Post-Processing Framework for Group Fairness in Classification](https://arxiv.org/abs/2405.04025)  
 Ruicheng Xian, Han Zhao  
-Preprint ⋅ [pdf](https://arxiv.org/pdf/2405.04025) ⋅ [code](https://github.com/rxian/fair-classification)
+[pdf](https://arxiv.org/pdf/2405.04025) ⋅ [code](https://github.com/rxian/fair-classification)
 
 [Differentially Private Post-Processing for Fair Regression](https://proceedings.mlr.press/v235/xian24b.html)  
 Ruicheng Xian, Qiaobo Li, Gautam Kamath, Han Zhao  
@@ -131,9 +135,9 @@ ICLR 2020 ⋅ [pdf](https://arxiv.org/pdf/1910.06956.pdf)
 
 </div>
 
-<div class="block" style="text-align: right; margin-top: 10px; color: #afafb6; font-size: 0.85em;" markdown="1">
+<div class="block" style="margin-top: 20px;" markdown="1">
 
-December 2024
+I like to [draw](https://ruicheng-draws.notion.site/go-draw), am a heavy coffee [drinker](assets/coffee-setup-cc.jpeg)/[enjoyer](assets/coffee-peanuts.jpeg), and [Cantonese-style](assets/royal-bbq-champaign.jpeg) [BBQ](assets/yummy-bbq-kitchen-sf.jpeg) would be my go-to for lunch.
 
 </div>
 
