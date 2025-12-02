@@ -93,7 +93,7 @@ rxian2(at)illinois.edu ⋅ [google scholar](https://scholar.google.com/citations
 
 I received my PhD from the [University of Illinois Urbana-Champaign](http://cs.illinois.edu), where I was fortunate to be advised by [Han Zhao](http://hanzhaoml.github.io), and to have worked with [Matus Telgarsky](https://cims.nyu.edu/~matus/).  I am now at [OpenAI](https://openai.com).
 
-My interests lie broadly in machine learning; my thesis studied algorithmic fairness.
+My interests lie broadly in machine learning; my [thesis](assets/thesis.pdf) studied algorithmic fairness.
 
 </div>
 
