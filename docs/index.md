@@ -137,7 +137,7 @@ ICLR 2020 ⋅ [pdf](https://arxiv.org/pdf/1910.06956.pdf)
 
 <div class="block" style="margin-top: 20px;" markdown="1">
 
-I like to [draw](https://ruicheng-draws.notion.site/go-draw), am a heavy coffee [drinker](assets/coffee-setup-cc.jpeg)/[enjoyer](assets/coffee-peanuts.jpeg), and my go-to for lunch is [Cantonese-style](assets/royal-bbq-champaign.jpeg) [BBQ](assets/yummy-bbq-kitchen-sf.jpeg).
+I like to [draw](https://www.notion.so/ruicheng-draws/go-draw-2b241e522dc58005b04bdb07019e5639), am a heavy coffee [drinker](assets/coffee-setup-cc.jpeg)/[enjoyer](assets/coffee-peanuts.jpeg), and my go-to for lunch is [Cantonese-style](assets/royal-bbq-champaign.jpeg) [BBQ](assets/yummy-bbq-kitchen-sf.jpeg).
 
 </div>
 
